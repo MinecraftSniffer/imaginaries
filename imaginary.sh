@@ -1,7 +1,7 @@
 DISTRO_NAME="Imaginary OS v1.0 cookie"
 DISTRO_COMMENT="You need to use your imaginary for this.. jk"
 
-TARBALL_URL['arm']="https://cmd.os/imaginary-arm-pd-v1.0.1.tar.xz"
+TARBALL_URL['arm']="https://github.com/MinecraftSniffer/imaginaries/releases/download/imaginary-releases/imaginary-arm-pd-v1.0.1.tar.xz"
 TARBALL_SHA256['arm']="8a06d82c2dc5e4f735c744725c86105986e4a8bc984207ccfb634943d3bc4644"
 
 TARBALL_URL['aarch64']="https://cmd.os/downloads/imaginary-aarch64-pd-v1.0.1.tar.xz"
