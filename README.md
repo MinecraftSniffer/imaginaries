@@ -18,3 +18,8 @@ proot-distro install imaginary
 
 proot-distro login imaginary
 ```
+
+### Notes
+Because `imaginary` doesn't have a public repo, it will use Ubuntu repositories instead
+
+We're still making packages work on this distro
